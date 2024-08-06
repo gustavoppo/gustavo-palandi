@@ -1,0 +1,52 @@
+.item {
+  position: relative;
+  width: 6rem;
+  height: 6rem;
+  border: 1px solid white;
+  border-radius: 30px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 4rem;
+  transition: transform 0.3s, background-color 0.3s;
+  overflow: hidden;
+}
+
+.item .level {
+  position: absolute;
+  display: flex;
+  gap: 4px;
+  top: 50%;
+  left: 6rem;
+  transform: translateY(-50%);
+  opacity: 0;
+  transition: left 0.3s, opacity 0.3s;
+}
+
+.item .dot {
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.item:hover .level {
+  left: 7rem;
+  opacity: 1;
+}
+
+.item:hover {
+  transform: scale(1.1);
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.item[data-level="6"] .dot:nth-child(-n+6),
+.item[data-level="5"] .dot:nth-child(-n+5),
+.item[data-level="4"] .dot:nth-child(-n+4),
+.item[data-level="3"] .dot:nth-child(-n+3),
+.item[data-level="2"] .dot:nth-child(-n+2),
+.item[data-level="1"] .dot:nth-child(-n+1) {
+  background-color: yellow;
+}
