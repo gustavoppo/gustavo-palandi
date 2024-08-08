@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
+import { ThemeService } from '../../services/theme.service';
 
 @Component({
   selector: 'gp-theme-switch',
@@ -9,4 +10,17 @@ import { Component } from '@angular/core';
 })
 export class ThemeSwitchComponent {
 
+  #theme: ThemeService = inject(ThemeService);
+
+  switchTheme(): void {
+    this.#theme.toggleTheme();
+  }
+
+  isDarkThemeActive(): boolean {
+    return this.#theme.isDarkThemeActive();
+  }
+
+  getThemeToggleLabel(): string {
+    return this.#theme.getToggleLabel();
+  }
 }

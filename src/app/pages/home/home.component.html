@@ -1,11 +1,15 @@
-<gp-toolbar />
-<section class="mx-20">
-  <div class="flex flex-col">
+<header class="absolute top-0 w-full">
+  <gp-toolbar />
+</header>
+
+<main class="mx-4 absolute top-20 w-11/12 lg:mx-8 2xl:mx-20">
+  <div class="flex flex-col lg:w-full">
     <gp-content />
     <gp-skills />
   </div>
-  <div class="w-33 absolute top-32 flex flex-col right-12">
-    <gp-contact />
+
+  <aside class="w-contact top-32 flex flex-col right-12 gap mb-16 lg:flex-col-reverse lg:absolute lg:top-12 lg:items-end lg:gap-0">
     <gp-about />
-  </div>
-</section>
+    <gp-contact />
+  </aside>
+</main>

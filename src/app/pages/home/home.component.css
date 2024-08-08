@@ -1,5 +1,3 @@
-.w-33{
-    width: 33rem
+:host{
+  display: block;
 }
-
-

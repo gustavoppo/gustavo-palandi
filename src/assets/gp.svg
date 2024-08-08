@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 884 895.04">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#Gradiente_sem_nome_369);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 30px;
+      }
+
+      .cls-2 {
+        stroke: url(#Gradiente_sem_nome_301);
+      }
+
+      .cls-3 {
+        stroke: url(#Gradiente_sem_nome_274);
+      }
+
+      .cls-4 {
+        stroke: url(#Gradiente_sem_nome_281);
+      }
+
+      .cls-5 {
+        stroke: url(#Gradiente_sem_nome_387);
+      }
+
+      .cls-6 {
+        stroke: url(#Gradiente_sem_nome_322);
+      }
+
+      .cls-7 {
+        stroke: url(#Gradiente_sem_nome_306);
+      }
+
+      .cls-8 {
+        stroke: url(#Gradiente_sem_nome_317);
+      }
+
+      .cls-9 {
+        stroke: url(#Gradiente_sem_nome_310);
+      }
+
+      .cls-10 {
+        stroke: url(#Gradiente_sem_nome_392);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_392" data-name="Gradiente sem nome 392" x1="371.78" y1="203.12" x2="863.54" y2="203.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#90237d"/>
+      <stop offset="1" stop-color="#662d91"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_317" data-name="Gradiente sem nome 317" x1="610.66" y1="406.09" x2="610.66" y2="243.89" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#802a8c"/>
+      <stop offset="1" stop-color="#b31a65"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_301" data-name="Gradiente sem nome 301" x1="612.92" y1="520.75" x2="613.63" y2="363.99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#952889"/>
+      <stop offset="1" stop-color="#d4145a"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_310" data-name="Gradiente sem nome 310" x1="233.14" y1="542.72" x2="567.77" y2="542.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a22686"/>
+      <stop offset="1" stop-color="#cc1760"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_306" data-name="Gradiente sem nome 306" x1="317.68" y1="609.13" x2="680.67" y2="609.13" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#942889"/>
+      <stop offset="1" stop-color="#bb1c6d"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_387" data-name="Gradiente sem nome 387" x1="238.23" y1="258.29" x2="379.32" y2="258.29" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#662d91"/>
+      <stop offset="1" stop-color="#cc1761"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_369" data-name="Gradiente sem nome 369" x1="122.38" y1="313.03" x2="283.79" y2="313.03" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#662d91"/>
+      <stop offset="1" stop-color="#b0227b"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_281" data-name="Gradiente sem nome 281" x1="163.88" y1="489.66" x2="454.6" y2="489.66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a42686"/>
+      <stop offset=".27" stop-color="#a92481"/>
+      <stop offset=".6" stop-color="#b81e73"/>
+      <stop offset=".97" stop-color="#d1145c"/>
+      <stop offset="1" stop-color="#d4145a"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_322" data-name="Gradiente sem nome 322" x1="406.15" y1="387.1" x2="407.83" y2="15.77" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cf155c"/>
+      <stop offset="1" stop-color="#6c2c90"/>
+    </linearGradient>
+    <radialGradient id="Gradiente_sem_nome_274" data-name="Gradiente sem nome 274" cx="442" cy="447.52" fx="442" fy="447.52" r="444.77" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ed1e79"/>
+      <stop offset=".15" stop-color="#e71e79"/>
+      <stop offset=".33" stop-color="#d8207c"/>
+      <stop offset=".53" stop-color="#bf2381"/>
+      <stop offset=".74" stop-color="#9b2787"/>
+      <stop offset=".96" stop-color="#6f2b8f"/>
+      <stop offset="1" stop-color="#662d91"/>
+    </radialGradient>
+  </defs>
+  <path class="cls-10" d="M373.22,142.23c172.09-16.52,332.05,29.89,482.14,127.49"/>
+  <path class="cls-8" d="M389.49,263.01c163.93-18.51,308.71,25.37,434.33,131.64"/>
+  <path class="cls-2" d="M442,378.56c128-4.3,241,44.7,332.81,132.01"/>
+  <path class="cls-9" d="M239.59,687.57c141.45-67.44,255.38-158.67,314.38-297.38"/>
+  <path class="cls-7" d="M667.03,431.94c-69.52,151.96-185.86,265.94-342.43,347.3"/>
+  <path class="cls-5" d="M258.61,36.71c-19.59,182.89,13.77,329.92,109.65,434.63"/>
+  <path class="cls-1" d="M140.74,74.12c-17.19,180.2,32.35,334.74,130.91,470.43"/>
+  <path class="cls-4" d="M169.03,594.81c116.42-42.55,207.41-114.63,272.97-216.25"/>
+  <path class="cls-6" d="M381.5,17.3c-18.5,160.95-2.5,271.95,60.5,361.25"/>
+  <path class="cls-3" d="M442,876.82c262-176.57,421-436.57,427-740.57v-2C591-25.75,297-23.75,15,134.25v3c19,305,183,567,427,739.57h0Z"/>
+</svg>

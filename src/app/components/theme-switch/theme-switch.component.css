@@ -1,11 +1,18 @@
 .theme {
-  --toggle-size: .825rem;
+  --toggle-size: 10px;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
   width: 6.25em;
   height: 3.125em;
-  background: -webkit-gradient(linear, left top, right top, color-stop(50%, #efefef), color-stop(50%, #1f1f1f)) no-repeat;
+  background: -webkit-gradient(
+      linear,
+      left top,
+      right top,
+      color-stop(50%, #1f1f1f),
+      color-stop(50%, #efefef)
+    )
+    no-repeat;
   background: -o-linear-gradient(left, #efefef 50%, #1f1f1f 50%) no-repeat;
   background: linear-gradient(to right, #efefef 50%, #1f1f1f 50%) no-repeat;
   background-size: 205%;
@@ -26,8 +33,16 @@
   position: absolute;
   top: 0.438em;
   left: 0.438em;
-  background: -webkit-gradient(linear, left top, right top, color-stop(50%, #efefef), color-stop(50%, #1f1f1f)) no-repeat;
-  background: -o-linear-gradient(left, #efefef 50%, #1f1f1f 50%) no-repeat;
+
+  background: -webkit-gradient(
+      linear,
+      left top,
+      right top,
+      color-stop(50%, #1f1f1f),
+      color-stop(50%, #efefef)
+    )
+    no-repeat;
+  background: -o-linear-gradient(left,  #1f1f1f 50%,#efefef 50%,) no-repeat;
   background: linear-gradient(to right, #efefef 50%, #1f1f1f 50%) no-repeat;
   background-size: 205%;
   background-position: 100%;

@@ -1,1 +1,7 @@
-<input type="checkbox" class="theme" />
+<input
+  type="checkbox"
+  [checked]="isDarkThemeActive()"
+  (change)="switchTheme()"
+  [attr.aria-label]="getThemeToggleLabel()"
+  class="theme"
+/>
