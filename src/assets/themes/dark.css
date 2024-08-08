@@ -144,6 +144,9 @@ body {
   z-index: 999;
   position: relative;
 }
+.gap {
+  gap: 2rem;
+}
 
 @media (min-width: 768px) {
   .gap {
@@ -266,7 +269,7 @@ body {
     font-size: 10.7vw;
   }
   .contact-content {
-    margin-right:5vw;
+    margin-right: 5vw;
   }
   .item {
     width: 6rem;

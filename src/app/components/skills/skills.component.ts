@@ -17,4 +17,8 @@ export class SkillsComponent {
     const target = event.currentTarget as HTMLElement;
     target.classList.remove('hovered');
   }
+
+  toggleText(element:any) {
+    element.classList.toggle('item');
+  }
 }
