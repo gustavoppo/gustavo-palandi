@@ -4,6 +4,7 @@ import { AboutComponent } from '../../components/about/about.component';
 import { ContactComponent } from '../../components/contact/contact.component';
 import { SkillsComponent } from '../../components/skills/skills.component';
 import { ContentComponent } from '../../components/content/content.component';
+import { LoadingComponent } from '../../components/loading/loading.component';
 
 @Component({
   selector: 'app-home',
@@ -14,6 +15,7 @@ import { ContentComponent } from '../../components/content/content.component';
     ContactComponent,
     SkillsComponent,
     ContentComponent,
+    LoadingComponent,
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css',

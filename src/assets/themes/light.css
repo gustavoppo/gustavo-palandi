@@ -8,6 +8,7 @@
 body {
   background: var(--white);
   user-select: none;
+  overflow: hidden;
 }
 .sr-only {
   position: absolute;
@@ -60,6 +61,14 @@ body {
   opacity: 1;
 }
 
+.item.hover-active {
+  transform: scale(1.2);
+  background-color: var(--black-hover);
+}
+
+.item.hover-active::after {
+  opacity: 1;
+}
 .rd-toolbar {
   flex: 1;
   height: 4rem;
