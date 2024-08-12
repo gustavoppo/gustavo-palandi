@@ -8,7 +8,6 @@
 body {
   background: var(--black);
   user-select: none;
-  overflow: hidden;
 }
 .noise {
   position: fixed;

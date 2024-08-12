@@ -8,7 +8,6 @@
 body {
   background: var(--white);
   user-select: none;
-  overflow: hidden;
 }
 .sr-only {
   position: absolute;
